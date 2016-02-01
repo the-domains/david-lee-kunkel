@@ -1,0 +1,13 @@
+layout_spectrum: 0.9535649
+typography_spectrum: 0.4595401
+color:
+  saturation: 0.6511883
+  lightness: 0.1432374
+  brandStrength: 0.7403285
+  brandColors:
+    - '#020202'
+    - '#4B4B4B'
+    - '#FCFCFC'
+    - '#CFCFCF'
+  rhythmicContrast: 0
+name: David Lee Kunkel
