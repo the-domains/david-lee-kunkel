@@ -1,3 +1,7 @@
+name: David Lee Kunkel
+favicon: null
+layout_spectrum: 0.9535649
+typography_spectrum: 0.4595401
 collections:
   - index:
       path: /
@@ -10,16 +14,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+title: David Lee Kunkel Web Site
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.6511883
-  brandStrength: 0.9485666
-  lightness: 0.1432374
   brandColors:
     - '#1E1E20'
     - '#FBFBFC'
     - '#BEBEC5'
     - '#8A898F'
+  brandStrength: 0.9485666
+  lightness: 0.1432374
+  saturation: 0.6511883
   rhythmicContrast: 0
-typography_spectrum: 0.4595401
-layout_spectrum: 0.9535649
-name: David Lee Kunkel
+purpose: []
